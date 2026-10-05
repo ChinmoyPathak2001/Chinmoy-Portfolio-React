@@ -1,0 +1,19 @@
+CHINMOY PORTFOLIO — WINDOWS / VS CODE
+
+1. Install Node.js 24 LTS if needed: https://nodejs.org/
+2. Extract the ZIP fully.
+3. Open the chinmoy-portfolio-react folder in VS Code.
+4. Open Terminal > New Terminal.
+5. Run: npm ci
+6. Run: npm run dev
+7. Open the localhost URL shown in the terminal.
+
+If PowerShell blocks npm.ps1, use Command Prompt or:
+  npm.cmd ci
+  npm.cmd run dev
+
+Build for hosting: npm run build
+Build output: dist
+Stop the server: Ctrl+C
+
+Read README.md for file locations, Cloudinary setup and technology details.
